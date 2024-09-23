@@ -32,8 +32,18 @@
  */
 public class GreatestCommonDivisorOfStrings {
 
+    // if the two strings are divisible by a common substring then they could be diff lens but would have to have the same pattern. Therefore, if we concatenated them, it should be the same exact string. Then if I find the greatest common denominator betweeen the two lengths, return a substring of that length.
+    // https://leetcode.com/problems/greatest-common-divisor-of-strings/solution/
     public String gcdOfStrings(String str1, String str2) {
         String gcd = "";
+
+        if (!(str1 + str2).equals(str2 + str1)) {
+            return "";
+        }
+
+
+
+
 
         return gcd;
     }
