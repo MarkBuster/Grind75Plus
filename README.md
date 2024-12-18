@@ -1,7 +1,5 @@
 # Grind 75 Problems Checklist
 
-# Grind 75 Problems Checklist
-
 ## Week 1: Basic Data Structures
 - [x] 1. Two Sum (LC #1) [Easy] ✓
 - [ ] 2. Valid Parentheses (LC #20) [Easy] ✓
