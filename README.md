@@ -1,9 +1,7 @@
 # Grind 75 Problems Checklist
 
-# Grind 75 Problems Checklist
-
 ## Week 1: Basic Data Structures
-- [✓] 1. Two Sum (LC #1) [Easy] ✓
+- [x] 1. Two Sum (LC #1) [Easy] ✓
 - [ ] 2. Valid Parentheses (LC #20) [Easy] ✓
 - [ ] 3. Merge Two Sorted Lists (LC #21) [Easy] ✓
 - [ ] 4. Best Time to Buy and Sell Stock (LC #121) [Easy] ✓
