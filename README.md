@@ -2,7 +2,7 @@
 
 ## Week 1: Basic Data Structures
 - [x] 1. Two Sum (LC #1) [Easy] ✓
-- [ ] 2. Valid Parentheses (LC #20) [Easy] ✓
+- [x] 2. Valid Parentheses (LC #20) [Easy] ✓
 - [ ] 3. Merge Two Sorted Lists (LC #21) [Easy] ✓
 - [ ] 4. Best Time to Buy and Sell Stock (LC #121) [Easy] ✓
 - [ ] 5. Valid Palindrome (LC #125) [Easy] ✓
